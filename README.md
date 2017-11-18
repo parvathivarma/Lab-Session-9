@@ -24,8 +24,11 @@ https://public.tableau.com/views/MSISDashboardLab9/Story1?:embed=y&:display_coun
 
 The table shows that SCU grads are hired by all major tech companies. The table has been sorted in descending order. Bigger the size of the square box indicates that higher is the rate of intake of SCU grads in those companies. 
 
+<img width="990" alt="screen shot 2017-11-18 at 12 01 50 pm" src="https://user-images.githubusercontent.com/32216143/32984329-71d8732e-cc59-11e7-8c09-4d449ccd5c30.png">
 
 Skills such as Excel, SQL, Java, R, Apache Spark are the skillset that a candidate should possess in the field of analytics. SCU grads are skilled with those skills. The tree map indicates the number of SCU grads having these skillset. 
+
+
 
 This is a bar graph to represent the number of candidates in different job profile. I have used bar graph because it is easy to compare. It can easily be interpreted that more than 1000 SCU grads works in the field of business development. 
 
