@@ -20,6 +20,7 @@ https://public.tableau.com/views/MSISDashboardLab9/Story1?:embed=y&:display_coun
 
 #### Why I use this visualization? 
 
+<img width="534" alt="screen shot 2017-11-18 at 11 57 50 am" src="https://user-images.githubusercontent.com/32216143/32984323-372249c6-cc59-11e7-94a7-88fd4b6f7054.png">
 
 The table shows that SCU grads are hired by all major tech companies. The table has been sorted in descending order. Bigger the size of the square box indicates that higher is the rate of intake of SCU grads in those companies. 
 
