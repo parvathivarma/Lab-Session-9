@@ -8,4 +8,10 @@ Master's in Information System is one of the growing fields and the demand for M
 
 MSIS Graduates from Santa Clara University are best candidates to hire 
 
-# 
+<img width="377" alt="screen shot 2017-11-18 at 10 59 04 am" src="https://user-images.githubusercontent.com/32216143/32983848-4522867a-cc50-11e7-9d80-9a93b7f8647a.png">
+
+From the graph, you can see that MSIS graduates have skillset that matches 100% with the industrial needed skill set for the job profile "Data Analyst". The skillset for MSIS graduates matches more than 80% to the skillset required for other job profiles in the field of information systems. 
+
+
+
+
