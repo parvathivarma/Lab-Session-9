@@ -36,7 +36,7 @@ Business Developement skills involves both technical and mangerial skills. Hence
 
 ## How I improved from previous lab session 
 
-This is the link to the previous version of cogitive walk through:
+This is the link to the previous version of cognitive walk through:
 https://public.tableau.com/profile/parvathivarma#!/vizhome/MSISDashboard_FinalVersion_Lab6/RankingDsh
 
 ## Advantage
